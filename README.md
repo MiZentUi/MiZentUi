@@ -5,8 +5,8 @@
 <br>
 
 [![GMail](https://img.shields.io/badge/mizentui-red?logo=gmail&logoColor=white)](mailto:mizentui@gmail.com)
-[![Telegram](https://img.shields.io/badge/@MiZentUi-blue?logo=telegram&logoColor=white)](https://t.me/MiZentUi) 
-[![LeetCode](https://img.shields.io/badge/MiZentUi-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/MiZentUi) 
+[![Telegram](https://img.shields.io/badge/@MiZentUi-blue?logo=telegram&logoColor=white)](https://t.me/MiZentUi)
+[![LeetCode](https://img.shields.io/badge/MiZentUi-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/MiZentUi)
 
 ## About me
 
@@ -17,10 +17,9 @@
 ## My stats
 
 <div align="center">
-    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api?username=MiZentUi&show_icons=true&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080" />
+    <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api?username=MiZentUi&show_icons=true&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080&card_width=400" />
     <img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api/top-langs?username=MiZentUi&layout=compact&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080&langs_count=8&card_width=320" />
-    <img src="https://github-readme-stats-beta-six-89.vercel.app/api/wakatime?username=MiZentUi&layout=compact&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiZentUi&bg_color=00000000&title_color=FAA627&color=808080&line=FAA627&point=808080&radius=10" />
+    <a href="https://wakatime.com/@MiZentUi"><img style="height: 200px" src="https://github-readme-stats-beta-six-89.vercel.app/api/wakatime?username=MiZentUi&layout=compact&theme=slateorange&bg_color=00000000&border_color=FFA500&text_color=808080&langs_count=8&card_width=400" /></a>
 </div>
 
 ## Languages
@@ -41,24 +40,13 @@
 <div align="left">
     <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
     <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-    <img width=50 height=50 src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" />
+    <img width=50 height=50 src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
+    <img width=50 height=50 src="https://www.svgrepo.com/show/305719/apachekafka.svg" />
+    <img width=50 height=50 src="https://grpc.io/img/logos/grpc-icon-color.png" />
+    <img width=50 height=50 src="https://www.svgrepo.com/show/448266/aws.svg" />
     <img width=50 height=50 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" />
+    <img width=50 height=50 src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+    <img width=50 height=50 src="https://icon.icepanel.io/Technology/svg/OpenAPI.svg" />
     <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CMake_logo.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
-</div>
-
-## Tools
-
-<div align="left">
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" />
-    <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" />
+    <img width=50 height=50 src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" />
 </div>
