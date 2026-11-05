@@ -65,7 +65,7 @@ Java Backend-разработчик с коммерческим опытом р�
 #work(
   title: "Java-разработчик",
   company: "ООО \"Т-Финтех Разработка\"",
-  dates: dates-helper(start-date: "Июнь 2026", end-date: "Настоящее"),
+  dates: dates-helper(start-date: "Июнь 2026", end-date: "Окт 2026"),
 )
 
 - Разработка корпоративного SDK и библиотек для микросервисов на Spring Boot
@@ -138,4 +138,4 @@ Java Backend-разработчик с коммерческим опытом р�
 
 - *Языки программирования*: Java, C/C++, C\#, Python, JavaScript
 - *Backend*: Spring (Boot/Data/Security), PostgreSQL, SQLite, Kafka, Redis, gRPC, S3, JWT/OAuth2, OpenTelemetry
-- *Инструменты*: Git, Docker, Kubernetes, UNIX/Linux, Bash,  Grafana, Prometheus, OpenAPI, Typst
+- *Инструменты*: Git, Docker, Kubernetes, UNIX/Linux, Bash, Grafana, Prometheus, OpenAPI, Typst
